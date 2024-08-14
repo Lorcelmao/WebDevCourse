@@ -1,0 +1,17 @@
+html {
+    background: black;
+}
+.bdc {
+    margin-top: 10%;
+    width: 50%;
+    margin-left: 25%;
+}
+.image {
+    border: 5px solid white;
+    width: 100%;
+}
+.text {
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville';
+}
